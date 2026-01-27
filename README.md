@@ -43,3 +43,4 @@ Es nutzt **Transfer Learning** mit dem vortrainierten **VGG16-Modell** (ImageNet
 
 ## 📂 Dataset Structure / Datensatzstruktur
 
+
